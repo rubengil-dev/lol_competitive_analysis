@@ -1,4 +1,4 @@
-# 🎮 League Of Legends Competitive Analytics (2018-2025)
+# League Of Legends Competitive Analytics (2018-2025)
 
 ## Overview
 The aim of this project is to extract meaningful insights about champion performance, team efficiency, player rankings and game dynamics across 7 years of professional 
